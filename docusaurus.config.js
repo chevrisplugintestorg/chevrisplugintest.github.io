@@ -13,15 +13,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://chevrisplugintest.github.io',
+  url: 'https://chevrisplugintestorg.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'chevrisplugintest', // Usually your GitHub org/user name.
-  projectName: 'chevrisplugintest', // Usually your repo name.
+  organizationName: 'chevrisplugintestorg', // Usually your GitHub org/user name.
+  projectName: 'chevrisplugintestorg', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
